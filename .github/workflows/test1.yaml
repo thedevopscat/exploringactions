@@ -2,8 +2,8 @@
 name: GitHub Actions Test 1
 on: [push, pull_request]
 jobs:
-  Example-Action-Job:
-    name: Example Action Job
+  Example-Actions-Job:
+    name: Example Actions Job
     runs-on: ubuntu-latest
     steps:
       # Display the event that triggered the workflow
